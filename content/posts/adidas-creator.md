@@ -28,4 +28,4 @@ Performance Grade: A+
 
 Bargain Value: A+
 
-![Top View](/img/Adidas TS Creator top view.jpg)
+![Top View](/img/Adidas-TS-Creator-top-view.jpg 'Top View')
