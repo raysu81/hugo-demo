@@ -1,0 +1,46 @@
+baseURL: ''
+languageCode: en-us
+title: Ray's Blog - Wear Your Shoes
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello there, I like cats and basketball shoes."
+    Content: These are some of the things which bring me joy and give me a sense of purpose.
+  socialIcons:
+    - name: Instagram
+      url: "https://www.instagram.com/raymondxsu/"
+    - name: facebook
+      url: "https://www.facebook.com/ray.x.su"
+    - name: X
+      url: "https://x.com/discipline81"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/haoraysu/"
+
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 30
