@@ -27,3 +27,5 @@ Personal Fit: Very good for me.
 Performance Grade: A+
 
 Bargain Value: A+
+
+![Adidas TS Creator top view](img/Adidas TS Creator top view.jpg)
