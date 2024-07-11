@@ -1,7 +1,8 @@
 ---
-title: 'Goal: Coursera Meta Front-End & Back-End Certs'
+title: 'Goal: Coursera Online Certs for WebDev'
 date: 2024-07-11T01:39:03-07:00
 draft: false
+categories: ["Self-Learning"]
 ---
 
 I made this blog site by following online tutorials--sometimes exact step by step. It's a static site using a Hugo template and hosted on Netlify.

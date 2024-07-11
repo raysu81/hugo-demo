@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Self_Learning on Ray&#39;s Blog - Wear Your Shoes</title>
+    <link>http://localhost:1313/categories/self_learning/</link>
+    <description>Recent content in Self_Learning on Ray&#39;s Blog - Wear Your Shoes</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 01:39:03 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/self_learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goal: Coursera Meta Front-End &amp; Back-End Certs</title>
+      <link>http://localhost:1313/posts/coursera-certs/</link>
+      <pubDate>Thu, 11 Jul 2024 01:39:03 -0700</pubDate>
+      <guid>http://localhost:1313/posts/coursera-certs/</guid>
+      <description>I made this blog site by following online tutorials&amp;ndash;sometimes exact step by step. It&amp;rsquo;s a static site using a Hugo template and hosted on Netlify.
+Learned a lot already, and happy I was able to manage some of the oddities and challenges that came about.
+I&amp;rsquo;m not very good at my webdev skills and knowledge, and want to get better.
+As such, I want to set in writing for my goal of completing the following two Coursera certificates:</description>
+    </item>
+  </channel>
+</rss>
