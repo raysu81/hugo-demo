@@ -16,7 +16,7 @@ As such, I want to set in writing for my goal of completing the following two Co
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/programs/sacramento-public-library-chjfi/professional-certificates/meta-front-end-developer)
 - [Meta Back-End Developer Professional Certificate](https://www.coursera.org/programs/sacramento-public-library-chjfi/professional-certificates/meta-back-end-developer)
 
-Timeline:
+### Timeline:
 
 Complete nearly all of both online cert programs by Sept 14. Leave just the "final project" to complete for both.
 
