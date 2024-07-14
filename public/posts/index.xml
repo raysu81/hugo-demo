@@ -6,14 +6,24 @@
     <description>Recent content in Posts on Ray&#39;s Blog - Wear Your Shoes</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 01:39:03 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 03:47:57 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coursera Certs</title>
+      <title>ross-071324</title>
+      <link>http://localhost:1313/posts/ross-071324/</link>
+      <pubDate>Sat, 13 Jul 2024 03:47:57 -0700</pubDate>
+      <guid>http://localhost:1313/posts/ross-071324/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goal: Coursera Online Certs for WebDev</title>
       <link>http://localhost:1313/posts/coursera-certs/</link>
       <pubDate>Thu, 11 Jul 2024 01:39:03 -0700</pubDate>
       <guid>http://localhost:1313/posts/coursera-certs/</guid>
-      <description></description>
+      <description>I made this blog site by following online tutorials&amp;ndash;sometimes exact step by step. It&amp;rsquo;s a static site using a Hugo template and hosted on Netlify.
+Learned a lot already, and happy I was able to manage some of the oddities and challenges that came about.
+I&amp;rsquo;m not very good at my webdev skills and knowledge, and want to get better.
+As such, I want to set in writing for my goal of completing the following two Coursera certificates:</description>
     </item>
     <item>
       <title>Jordan Melo M13</title>
