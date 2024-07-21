@@ -1,6 +1,6 @@
 ---
 title: 'The Story of Floofy'
-date: 2024-07-17T03:47:57-07:00
+date: 2024-07-20T03:47:57-07:00
 draft: false
 cover:
     image: img/floofy-cover.jpg
